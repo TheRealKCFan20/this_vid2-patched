@@ -22,7 +22,8 @@ This is a parody of video downloader bots and does not actually send users downl
 
 **I AM NOT RESPONSIBLE FOR ANYTHING THAT HAPPENS TO YOUR ACCOUNT AS A RESULT OF HOSTING THIS.**
 
-Original @this_vid by [shalvah](https://twitter.com/theshalvah).
-
 ## License
 MIT
+
+## Credits
+Original @this_vid by [shalvah](https://twitter.com/theshalvah).
