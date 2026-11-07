@@ -27,3 +27,4 @@ MIT
 
 ## Credits
 Original @this_vid by [shalvah](https://twitter.com/theshalvah).
+The original this_vid2 repository by [Essem](https://github.com/TheEssem).
